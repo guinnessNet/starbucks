@@ -177,7 +177,7 @@ header .sub-menu .search input:focus {
   width: 190px;
   border-color: #669900;
 }
-header .sub-menu .search .material-icons {
+header .sub-menu .search .material-symbols-outlined {
   height: 24px;
   position: absolute;
   top: 0;
@@ -186,7 +186,7 @@ header .sub-menu .search .material-icons {
   margin: auto;
   transition: .4s;
 }
-header .sub-menu .search.focused .material-icons {
+header .sub-menu .search.focused .material-symbols-outlined {
   opacity: 0;
 }
 header .main-menu {
@@ -374,7 +374,7 @@ header .badges .badge {
   justify-content: center;
   align-items: center;
 }
-.notice .notice-line .inner__left .notice-line__more .material-icons {
+.notice .notice-line .inner__left .notice-line__more .material-symbols-outlined {
   color: #fff;
   font-size: 30px;
 }
@@ -397,7 +397,7 @@ header .badges .badge {
   justify-content: center;
   align-items: center;
 }
-.notice .notice-line .inner__right .toggle-promotion .material-icons {
+.notice .notice-line .inner__right .toggle-promotion .material-symbols-outlined {
   font-size: 30px;
 }
 /*PROMOTION*/
